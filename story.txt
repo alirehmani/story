@@ -1,0 +1,4 @@
+git init
+git add file name with extension
+git commit -m"any remarks and notes"
+git add .
