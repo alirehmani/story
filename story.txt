@@ -5,4 +5,4 @@ git add .
 
 git diff file name....to check the difference between changes from previous commit
 
-git push
+git rm --cached -r .		to undo currently wrongly staged files
