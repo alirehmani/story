@@ -4,3 +4,5 @@ git commit -m"any remarks and notes"
 git add .
 
 git diff file name....to check the difference between changes from previous commit
+
+git push
